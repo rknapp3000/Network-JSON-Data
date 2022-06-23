@@ -1,0 +1,15 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "This is our third lab showing async and await functions and axios",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ryan Knapp 10473777",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
